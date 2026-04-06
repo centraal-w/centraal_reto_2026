@@ -1,0 +1,12 @@
+.git*
+.vscode
+.local
+__pycache__
+*.pyc
+.Python
+env
+.venv
+venv
+.pytest_cache
+*.md
++info
